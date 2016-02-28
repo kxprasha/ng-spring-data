@@ -10,5 +10,7 @@ public class AppController {
   @RequestMapping(method = RequestMethod.GET)
   public String viewApplication() {
     return "index";
+
+
   }
 }
