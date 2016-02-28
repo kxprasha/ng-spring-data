@@ -1,0 +1,26 @@
+{
+  "name": "ng-spring-data",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-spring-data-rest": "~0.3.0",
+    "bootstrap-css-only": "~3.2.0",
+    "lodash": "~2.4.1"
+  },
+  "authors": [
+    "Kumar <made4java@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/libs",
+    "test",
+    "tests"
+  ]
+}
